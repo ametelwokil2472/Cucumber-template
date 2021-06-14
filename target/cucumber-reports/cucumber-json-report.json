@@ -3,7 +3,7 @@
     "line": 3,
     "elements": [
       {
-        "start_timestamp": "2021-06-14T17:02:52.580Z",
+        "start_timestamp": "2021-06-14T19:03:18.467Z",
         "line": 7,
         "name": "3 add 4 is 7",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3273800,
+              "duration": 2000300,
               "status": "passed"
             },
             "line": 8,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 1131400,
+              "duration": 1000100,
               "status": "passed"
             },
             "line": 9,
@@ -47,7 +47,7 @@
           },
           {
             "result": {
-              "duration": 2288600,
+              "duration": 2000600,
               "status": "passed"
             },
             "line": 10,
@@ -66,7 +66,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-06-14T17:02:52.677Z",
+        "start_timestamp": "2021-06-14T19:03:18.538Z",
         "line": 12,
         "name": "4 subtract 3 is 1",
         "description": "",
@@ -76,7 +76,6 @@
         "steps": [
           {
             "result": {
-              "duration": 408900,
               "status": "passed"
             },
             "line": 13,
@@ -88,6 +87,7 @@
           },
           {
             "result": {
+              "duration": 999900,
               "status": "passed"
             },
             "line": 14,
@@ -109,7 +109,6 @@
           },
           {
             "result": {
-              "duration": 500700,
               "status": "passed"
             },
             "line": 15,
@@ -128,7 +127,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-06-14T17:02:52.694Z",
+        "start_timestamp": "2021-06-14T19:03:18.546Z",
         "line": 17,
         "name": "5 multiplied 3 is 15",
         "description": "",
@@ -138,7 +137,6 @@
         "steps": [
           {
             "result": {
-              "duration": 987900,
               "status": "passed"
             },
             "line": 18,
@@ -150,7 +148,7 @@
           },
           {
             "result": {
-              "duration": 999900,
+              "duration": 1000000,
               "status": "passed"
             },
             "line": 19,
@@ -172,7 +170,7 @@
           },
           {
             "result": {
-              "duration": 208800,
+              "duration": 1000100,
               "status": "passed"
             },
             "line": 20,
@@ -191,7 +189,7 @@
         ]
       },
       {
-        "start_timestamp": "2021-06-14T17:02:52.708Z",
+        "start_timestamp": "2021-06-14T19:03:18.555Z",
         "line": 22,
         "name": "8 divide 4 is 2",
         "description": "",
@@ -201,6 +199,7 @@
         "steps": [
           {
             "result": {
+              "duration": 999800,
               "status": "passed"
             },
             "line": 23,
@@ -212,7 +211,7 @@
           },
           {
             "result": {
-              "duration": 500100,
+              "duration": 1000300,
               "status": "passed"
             },
             "line": 24,
@@ -234,7 +233,6 @@
           },
           {
             "result": {
-              "duration": 67700,
               "status": "passed"
             },
             "line": 25,

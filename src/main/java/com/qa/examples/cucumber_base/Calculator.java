@@ -1,5 +1,7 @@
 package com.qa.examples.cucumber_base;
 
+
+
 /**
  * Calculator class for basic floating-point mathematical operations.
  * 
@@ -27,6 +29,9 @@ public class Calculator {
 	
 	public double divide(double a, double b) {
 		// TODO: Implement
+		if (b ==0) {
+			return 0.0d;
+		}
 		return a/b;
 	}
 	
