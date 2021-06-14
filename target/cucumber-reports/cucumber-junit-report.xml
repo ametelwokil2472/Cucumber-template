@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="0.348">
+    <testcase classname="Can calculate addition and subtraction correctly?" name="3 add 4 is 7" time="0.079">
+        <system-out><![CDATA[Given a calculator..........................................................passed
+When 3 and 4 are added......................................................passed
+Then the result should be 7.................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Can calculate addition and subtraction correctly?" name="4 subtract 3 is 1" time="0.004">
+        <system-out><![CDATA[Given a calculator..........................................................passed
+When 3 is subtracted from 4.................................................passed
+Then the result should be 1.................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Can calculate addition and subtraction correctly?" name="5 multiplied 3 is 15" time="0.007">
+        <system-out><![CDATA[Given a calculator..........................................................passed
+When 5 and 3 are multiplied.................................................passed
+Then the result should be 15................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Can calculate addition and subtraction correctly?" name="8 divide 4 is 2" time="0.003">
+        <system-out><![CDATA[Given a calculator..........................................................passed
+When 8 is divided by 4......................................................passed
+Then the result should be 2.................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
