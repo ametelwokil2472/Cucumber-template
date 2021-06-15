@@ -9,7 +9,7 @@ import io.cucumber.junit.CucumberOptions.SnippetType;
 @RunWith(Cucumber.class)
 @CucumberOptions(
 		features = "classpath:features", // sets location of feature files
-		glue = "com.qa.examples.cucumber_base.step_definitions",
+		glue ="com.qa.examples.cucumber_base.step_definitions",			
 		snippets = SnippetType.CAMELCASE, // changes snippet output to camelcase rather than underscore
 		plugin = {
 				"pretty", // prettify output

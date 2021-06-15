@@ -23,4 +23,26 @@ public class CalculatorTest {
 		
 		assertEquals(expected, actual, 7);
 	}
-}
+	@Test
+	public void subtractTest() {
+		double expected = 2.0;
+		double actual = calculator.subtract(6.3, 4.3);
+		
+		assertEquals(expected, actual, 7);
+	}
+	
+	@Test
+	public void multiplyTest() {
+		double expected = 24.0;
+		double actual = calculator.multiply(6.0, 4.0);
+		
+		assertEquals(expected, actual, 7);
+	}
+	@Test
+	public void dividTest() {
+		double expected = 6.0;
+		double actual = calculator.divide(24.0, 4.0);
+		
+		assertEquals(expected, actual, 7);
+	}
+	}
